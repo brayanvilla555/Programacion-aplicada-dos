@@ -11,7 +11,7 @@
         <Label Content="EL NO FUERTE" HorizontalAlignment="Left" Height="42" Margin="156,175,0,0" VerticalAlignment="Top" Width="335" Background="#FF63DF38" FontSize="24" FontWeight="Bold"/>
         <Label Content="El sexy " HorizontalAlignment="Left" Height="102" Margin="194,269,0,0" VerticalAlignment="Top" Width="228" FontSize="36" FontWeight="Bold"/>
         <Label Content="brayan el que regresa con cassi algoooo" HorizontalAlignment="Center" Height="77" Margin="0,98,0,0" VerticalAlignment="Top" Width="708" FontSize="36"/>
-        <Label Content="Label" HorizontalAlignment="Left" Height="72" Margin="510,248,0,0" VerticalAlignment="Top" Width="174" Background="#FFE69494"/>
+        <Label Content="Label" HorizontalAlignment="Left" Height="72" Margin="335,21,0,0" VerticalAlignment="Top" Width="174" Background="#FF94E6BF"/>
 
     </Grid>
 </Window>
