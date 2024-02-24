@@ -10,7 +10,7 @@
         <Button Content="Button" HorizontalAlignment="Left" Height="56" Margin="94,34,0,0" VerticalAlignment="Top" Width="156"/>
         <Label Content="Label" HorizontalAlignment="Left" Height="42" Margin="156,175,0,0" VerticalAlignment="Top" Width="335" Background="#FFDF3838"/>
         <Label Content="El sexy " HorizontalAlignment="Left" Height="102" Margin="194,269,0,0" VerticalAlignment="Top" Width="228" FontSize="36" FontWeight="Bold"/>
-        <Label Content="hilaaa bryana" HorizontalAlignment="Left" Height="77" Margin="462,62,0,0" VerticalAlignment="Top" Width="237" FontSize="36"/>
+        <Label Content="brayan el que regresa con cassi algoooo" HorizontalAlignment="Center" Height="77" Margin="0,90,0,0" VerticalAlignment="Top" Width="708" FontSize="36"/>
 
     </Grid>
 </Window>
