@@ -5,6 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Programacion_aplicada_dos"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid/>
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="550" Width="1000">
+    <Grid>
+
+    </Grid>
 </Window>
