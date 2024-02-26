@@ -8,6 +8,7 @@
         WindowStartupLocation="CenterScreen"
         Title="MainWindow" Height="550" Width="1000">
     <Grid>
+        <Button x:Name="btn_view_clientes" Content="Ver clientes" HorizontalAlignment="Left" Margin="66,129,0,0" VerticalAlignment="Top" Click="btn_view_clientes_Click"/>
 
     </Grid>
 </Window>

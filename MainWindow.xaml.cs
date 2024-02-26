@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Programacion_aplicada_dos.Clientes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,12 @@ namespace Programacion_aplicada_dos
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void btn_view_clientes_Click(object sender, RoutedEventArgs e)
+        {
+            ClienteView clienteView = new ClienteView();
+            clienteView.Show();
         }
     }
 }
